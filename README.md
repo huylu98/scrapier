@@ -1,5 +1,6 @@
 # scrapier
 Scrapy simple
-Usage:
-run command: scrapy crawl quotes
+# Usage:
+run command: 
+<p><i>scrapy crawl quotes</i></p>
 Enjoy!
